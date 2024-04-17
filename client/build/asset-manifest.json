@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0455bdbb.css",
+    "main.js": "/static/js/main.316dd3ec.js",
+    "static/js/787.00efe638.chunk.js": "/static/js/787.00efe638.chunk.js",
+    "static/media/abthero.jpeg": "/static/media/abthero.8bba1c45f1abd056f8ae.jpeg",
+    "static/media/abtplant.jpg": "/static/media/abtplant.d8a071c9054e95ba82cb.jpg",
+    "static/media/plantshero.jpg": "/static/media/plantshero.146666bfcf29818f5b47.jpg",
+    "static/media/carthero.jpg": "/static/media/carthero.30eeaaa9cb960badf9df.jpg",
+    "static/media/gerberdaisy.jpg": "/static/media/gerberdaisy.57ca117da739e5659651.jpg",
+    "static/media/jasmine.jpg": "/static/media/jasmine.8ecf4d2eef5fd4884920.jpg",
+    "static/media/stringofpearls.jpg": "/static/media/stringofpearls.2044f8e3b269c25fb438.jpg",
+    "static/media/opuntia.jpg": "/static/media/opuntia.b6676c2b35eeedf53900.jpg",
+    "static/media/codiaeum.jpg": "/static/media/codiaeum.d08745f2ca9ca7627e91.jpg",
+    "static/media/heroimg2.jpg": "/static/media/heroimg2.d9e5d2875c3d04f74cd7.jpg",
+    "static/media/anthurium.jpg": "/static/media/anthurium.4ccf13942ff3314677ff.jpg",
+    "static/media/aloevera.jpg": "/static/media/aloevera.b77e56f6cf5ec0efc64c.jpg",
+    "static/media/sansevieria.jpg": "/static/media/sansevieria.1ffdfd55b01c4363fb4f.jpg",
+    "static/media/dracaena.jpg": "/static/media/dracaena.e47dbc20e47c9e51f9f1.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0455bdbb.css.map": "/static/css/main.0455bdbb.css.map",
+    "main.316dd3ec.js.map": "/static/js/main.316dd3ec.js.map",
+    "787.00efe638.chunk.js.map": "/static/js/787.00efe638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0455bdbb.css",
+    "static/js/main.316dd3ec.js"
+  ]
+}
